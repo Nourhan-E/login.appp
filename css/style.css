@@ -1,0 +1,35 @@
+body{
+    background-color: #24353f;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.groupInfo{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+.groupInfo h1{
+    color: #17a2b8;
+    font-size: 2.5rem;
+}
+input::placeholder, textarea::placeholder {
+    color: rgb(182, 182, 182) !important;
+ }
+ .groupInfo p a{
+    text-decoration: none;
+ }
+ .groupInfo p a:hover{
+    text-decoration: underline;
+ }
+ .groupInfo input{
+    background-color: #24353f;
+ }
+ input:focus {
+   background-color: #24353f !important;
+}
+ .text .groupInfo{
+    margin-top: 150px;
+    margin-left: 130px;
+ }
+
+.text-success {
+   color: #28a745 !important;
+ }
